@@ -1,0 +1,9 @@
+github.com/panicthis/A v1.2.0 h1:bv4JpK1Pl1UCYsKMzo+yG0RSNw7ZK+VM6qh03m/c690=
+github.com/panicthis/A v1.2.0/go.mod h1:haRL5lvZ5rM0mZ/WqdAv8EUViiVwyH7xWJrGLS2jx2w=
+github.com/panicthis/B v1.2.0 h1:V+p3pmS3iA8Wtb9o4X7HhgqliV5xuKbiHmTeITWYxI4=
+github.com/panicthis/B v1.2.0/go.mod h1:2LtkupHYVRVPzSwjYr9ZCq7s+oIp6t8aJ276qwPXurc=
+github.com/panicthis/C v1.3.0/go.mod h1:bGWAUBhvWNlRKlXRkZ/GvJ4t1L9TViuVqt3CCiBGJRE=
+github.com/panicthis/C v1.4.0 h1:mVo5rnq0AeVPpxhWFqsb6YErQbzyNJgv7fumlXiUDtc=
+github.com/panicthis/C v1.4.0/go.mod h1:bGWAUBhvWNlRKlXRkZ/GvJ4t1L9TViuVqt3CCiBGJRE=
+github.com/panicthis/D v1.2.0 h1:tYnu/e89BSzrIMKbpfafNY/aJBcbkrTHdn+fxdfm3OE=
+github.com/panicthis/D v1.2.0/go.mod h1:j8I1cIC2pOEDl5kXp0TV+a0dsLUL4GmocSohNxGaz94=
